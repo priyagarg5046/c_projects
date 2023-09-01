@@ -1,0 +1,1 @@
+printf("%d %d\n",arr[i],arr[i+1]);
